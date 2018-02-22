@@ -32,6 +32,12 @@ public class TestUtility {
         JsonArray properties = jsonObject.getAsJsonArray(jsonElement);
         return properties;
     }
+    
+    public static void newdemo(){
+    	
+    	System.out.println("DemoSrc commit");
+    	
+    }
 }
 
 
